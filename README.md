@@ -1,2 +1,2 @@
 # PlayPen
-A place to learn how to use GitHub with Atom
+A place to learn how to use GitHub with Atom.
